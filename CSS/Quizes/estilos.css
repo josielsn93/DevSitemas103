@@ -1,0 +1,16 @@
+/*Fundo da página Rosa */
+body {
+	background-color: pink;
+}
+/*Todos os título h1 com 20px */
+h1 {
+	font-size: 20px;
+}
+/*Títulos H2 com a cor vermelha*/
+h2 {
+	color: red;
+}
+/*Colocando margem à esquerda*/
+p {
+	margin-left: 50px;
+}
